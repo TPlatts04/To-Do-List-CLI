@@ -12,5 +12,5 @@ Here are a few reasons i started this project:
 This project is for those who want a TODO List 'Application' but don't want to spend the money that comes with the online apps which are available. It can also be used just for testing purposes and anyone who wants to understand how the code works. Feel free to give me constructive feedback as this is my first major project within Python with many more yet to come.
 
 <h1>Copyright</h1>
-EST. Thomas Platts 07/08/2004
+EST. Thomas Platts 07/08/2004<br>
 I allow anyone to use this code as long as it stays within **PERSONAL** use, if project is taken outside of personal use then please ensure you credit me, the creator. If not then i will take action for a payment for using my code outside of personal use. (Examples of commerical use include: Developing a TODO List Application with my code, Using it within a business to develop your own applications for monetary gain etc.)
