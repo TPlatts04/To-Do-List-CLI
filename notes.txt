@@ -1,0 +1,5 @@
+Add Tasks: Allow users to add new tasks. (COMPLETE)
+View Tasks: Display the list of tasks. (COMPLETE)
+Mark as Complete: Let users mark tasks as completed. (COMPLETE)
+Delete Tasks: Allow users to delete tasks from the list.
+Save and Load: Use basic file handling to save the list to a text file and load it when the program starts.
