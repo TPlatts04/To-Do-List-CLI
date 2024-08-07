@@ -13,4 +13,4 @@ This project is for those who want a TODO List 'Application' but don't want to s
 
 <h1>Copyright</h1>
 EST. Thomas Platts 07/08/2004<br>
-I allow anyone to use this code as long as it stays within **PERSONAL** use, if project is taken outside of personal use then please ensure you credit me, the creator. If not then i will take action for a payment for using my code outside of personal use. (Examples of commerical use include: Developing a TODO List Application with my code, Using it within a business to develop your own applications for monetary gain etc.)
+I allow anyone to use this code as long as it stays within <bold>PERSONAL</bold> use, if project is taken outside of personal use then please ensure you credit me, the creator. If not then i will take action for a payment for using my code outside of personal use. (Examples of commerical use include: Developing a TODO List Application with my code, Using it within a business to develop your own applications for monetary gain etc.)
